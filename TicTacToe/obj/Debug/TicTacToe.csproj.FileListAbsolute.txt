@@ -1,0 +1,12 @@
+/Users/dennis/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/dennis/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/dennis/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csprojAssemblyReference.cache
+/Users/dennis/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/dennis/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.exe
+/Users/dennis/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csprojAssemblyReference.cache
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/obj/Debug/TicTacToe.exe
+/Users/dennis/Projects/C-Sharp/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
